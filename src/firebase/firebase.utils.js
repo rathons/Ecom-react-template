@@ -3,7 +3,7 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const config = {
-//  enter config here
+ // Config here
 };
 
   export const createUserProfileDocument = async (userAuth, additonalData) => {
